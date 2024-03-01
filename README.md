@@ -3,5 +3,5 @@ a django rest framework dockerized api that can be run easily. using for test CR
 
 
 # how to run
-docker-compose build
+docker-compose build;
 docker-compose up
